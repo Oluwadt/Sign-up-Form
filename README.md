@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1).
 
 ## Table of contents
 
@@ -32,6 +32,10 @@ Users should be able to:
 ![](./screenshot1.png)
 ![](./screenshot2.png)
 
+### Links
+
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 ## My process
 
 ### Built with
@@ -39,8 +43,6 @@ Users should be able to:
 - HTML
 - CSS 
 - Javascript
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
