@@ -66,7 +66,6 @@ signUpForm.addEventListener("submit", (e) =>  {
         emailError.className = 'error'
         emailErrorIcon.className = 'visible-error-icon'
         emailErrorIcon.style.visibility = 'visible'
-        console.log(emailErrorIcon);
     }
 
     if (!hasErrors) {
